@@ -1,0 +1,23 @@
+﻿  camera.cpp
+C:\dev2\project\lab3\t15\t15\camera.cpp(63,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\camera.cpp(67,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\camera.cpp(74,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\camera.cpp(78,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\camera.cpp(82,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+C:\dev2\project\lab3\t15\t15\main.cpp(130,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\dev2\project\lab3\t15\t15\main.cpp(163,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  math_3d.cpp
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(43,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(44,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(74,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(74,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(75,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(75,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(76,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(76,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev2\project\lab3\t15\t15\math_3d.cpp(124,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\dev2\project\lab3\t15\x64\Debug\t15.exe при последней инкрементной компоновке; выполняется полная компоновка
+  t15.vcxproj -> C:\dev2\project\lab3\t15\x64\Debug\t15.exe
